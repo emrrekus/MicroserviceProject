@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroserviceProject.Catalog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+524b044bab7a44d0505e9219ef2bf36ec7d14a85")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd5fc9bbf0537c57f641fce844263fcbb22441a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroserviceProject.Catalog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroserviceProject.Catalog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
