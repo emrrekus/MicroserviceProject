@@ -1,6 +1,0 @@
-@MicroserviceProject.Catalog_HostAddress = http://localhost:5164
-
-GET {{MicroserviceProject.Catalog_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
